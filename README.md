@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JLevins189
-- 👀 I’m interested in full stack development (no preference)
-- 🌱 I’m currently learning Java
+- 👀 I’m interested in full stack development (with a preference to backend)
+- 🌱 I’m currently learning Java (Spring Boot)
 - 💞️ I’m looking to collaborate on future projects..
 - 📫 How to reach me: E-Mail:jacklevins@hotmail.com
 
